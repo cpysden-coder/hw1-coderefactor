@@ -14,3 +14,5 @@ What I learned:
 - For some reason git push dumps me into a vim file which I have to quit. Not sure why this is happening
 - Thinking about the assignment before actually starting was helpful
 - Just because the assignment looks daunting to start with, doesn't mean you can't do it. (see bullet above)
+
+- And finally, I need to get into the habit of commiting code more frequently versus just saving locally. For example, after each acceptance criteria, or something like that.
